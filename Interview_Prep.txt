@@ -1,0 +1,16 @@
+
+Java Preparation:
+
+the difference between a static and instance method
+
+split() in string
+
+StringTokenizer in Java
+
+Exception handling in java
+
+Floyd's triangle in java (http://beginnersbook.com/2014/04/java-program-to-print-floyds-triangle-example/)
+
+resume
+
+http://www.resumebaking.com/job-responsibilities/qa-automation-engineer-responsibilities/
