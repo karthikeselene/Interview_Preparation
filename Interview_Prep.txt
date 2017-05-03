@@ -9,7 +9,21 @@ StringTokenizer in Java
 
 Exception handling in java
 
-Floyd's triangle in java (http://beginnersbook.com/2014/04/java-program-to-print-floyds-triangle-example/)
+Floyd's triangle in java
+
+http://beginnersbook.com/2014/04/java-program-to-print-floyds-triangle-example/
+
+http://www.codewithc.com/floyds-triangle-algorithm-flowchart/
+
+http://ecomputernotes.com/java/control-structures-in-java/floydtriangle
+
+Main method in java
+
+http://www.java67.com/2015/06/can-you-overload-or-override-main-in-java.html
+
+http://www.java67.com/2012/08/what-is-main-method-in-java-why-main-is.html
+
+http://www.sitesbay.com/java/java-main-method
 
 resume
 
