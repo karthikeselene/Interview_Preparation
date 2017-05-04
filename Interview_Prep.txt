@@ -25,6 +25,29 @@ http://www.java67.com/2012/08/what-is-main-method-in-java-why-main-is.html
 
 http://www.sitesbay.com/java/java-main-method
 
-resume
+Java platform/OS independent
 
-http://www.resumebaking.com/job-responsibilities/qa-automation-engineer-responsibilities/
+http://www.sitesbay.com/java/How-Java-Platform-Independent
+
+http://www.java67.com/2012/08/how-java-achieves-platform-independence.html
+
+Overload and Override in java
+
+http://javarevisited.blogspot.in/2013/03/can-we-overload-and-override-static-method-java.html
+
+http://beginnersbook.com/2014/01/method-overriding-in-java-with-example/
+
+http://www.java67.com/2012/08/what-is-method-overriding-in-java-example-tutorial.html
+
+http://www.studytonight.com/java/method-overriding-in-java.php
+
+https://crunchify.com/java-method-overriding-examples-and-concepts-overriding-rules/
+
+Number of vowels in string
+
+http://www.instanceofjava.com/2015/09/count-number-of-vowels-and-consonants-in-a-string-java-program.html
+
+Read string from text file
+
+http://www.codejava.net/java-se/file-io/how-to-read-and-write-text-file-in-java
+
