@@ -51,3 +51,12 @@ Read string from text file
 
 http://www.codejava.net/java-se/file-io/how-to-read-and-write-text-file-in-java
 
+http://javaconceptoftheday.com/first-repeated-and-non-repeated-character-in-a-string/
+
+http://www.java67.com/2016/09/3-ways-to-count-words-in-java-string.html
+
+http://stackoverflow.com/questions/19259730/junit-tester-class-runs-without-a-main-method-how-is-this-done-possible
+
+http://stackoverflow.com/questions/14011981/java-junit-has-no-main-function
+
+http://javahungry.blogspot.com/2014/12/5-ways-to-reverse-string-in-java-with-example.html
