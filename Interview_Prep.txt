@@ -60,3 +60,11 @@ http://stackoverflow.com/questions/19259730/junit-tester-class-runs-without-a-ma
 http://stackoverflow.com/questions/14011981/java-junit-has-no-main-function
 
 http://javahungry.blogspot.com/2014/12/5-ways-to-reverse-string-in-java-with-example.html
+
+https://www.javatpoint.com/StringBuffer-class
+
+http://www.javaworld.com/article/2076072/build-ci-sdlc/stringbuffer-versus-string.html
+
+http://www.codejava.net/java-core/the-java-language/throw-and-throws-keywords
+
+https://www.javatpoint.com/properties-class-in-java

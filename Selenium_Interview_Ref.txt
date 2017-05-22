@@ -1,0 +1,16 @@
+
+Selenium_Interview_Ref:
+
+http://automationtesting.in/write-data-to-excel-using-column-number/
+
+http://automationtesting.in/row-count-and-column-count-in-excel/
+
+https://www.youtube.com/watch?v=_D9qkEUKQdE
+
+http://www.ufthelp.com/2014/11/Object-Repository-Selenium.html
+
+http://seleniummaster.com/sitecontent/index.php/selenium-web-driver-menu/selenium-test-automation-with-java/170-using-object-map-in-selenium-web-driver-automation
+
+http://executeautomation.com/blog/page-object-model-in-selenium-part-1/
+
+http://www.ontestautomation.com/building-and-using-an-object-repository-in-selenium-webdriver/
